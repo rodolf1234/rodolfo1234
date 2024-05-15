@@ -4,7 +4,7 @@
 
 - estou estudando [Alura](https://www.alura.co.br)
 - estou me desenvolvendo na linguagem javaScript
-- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### você pode entrar em cantato comigo 📫
 
